@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+nlp_proj/share/
 
 # Spyder project settings
 .spyderproject
