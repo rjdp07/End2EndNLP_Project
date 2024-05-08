@@ -20,15 +20,12 @@ list_of_files = [
     f"src/{project_name}/constants/__init__.py",
     "config/config.yaml",
     "params.yaml",
-    "schema.yaml",
     "main.py",
     "app.py",
     "Dockerfile",
     "requirements.txt",
     "setup.py",
-    "research/trials.ipynb",
-    "templates/index.html",
-    "test.py"
+    "research/trials.ipynb"
     ]
 
 for filepath in list_of_files:
